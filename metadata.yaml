@@ -1,0 +1,34 @@
+_repo: The-King-of-Root-Valleyand-his-curious-daughter_25464
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Oer, T. von
+    gutenberg_agent_id: '31353'
+    url: http://www.gutenberg.org/2009/agents/31353
+  - &id001
+    agent_name: Reinick, Robert
+    birthdate: 1805
+    deathdate: 1852
+    gutenberg_agent_id: '31354'
+    url: http://www.gutenberg.org/2009/agents/31354
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2008-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: 'The King of Root Valley
+
+  and his curious daughter'
+url: http://www.gutenberg.org/ebooks/25464
